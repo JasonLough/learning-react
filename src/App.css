@@ -1,0 +1,14 @@
+
+
+
+
+.short {
+  height:100px;
+  transition:height .15s;
+}
+
+.tall {
+  height:200px;
+  transition:height .75s;
+}
+
